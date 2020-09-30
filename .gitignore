@@ -1,0 +1,5 @@
+/build
+/dist
+/mcompare.egg-info
+/mcompare_abditimer.egg-info
+/setup.py
