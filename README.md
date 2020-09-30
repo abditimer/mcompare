@@ -21,5 +21,13 @@ This work was some of the baseline work which was developed for a project for on
 You have two options, either you can clone this repo and edit the code as you wish, or you can install it using pip:
 > pip install mcompare==1.0.0
 
+<h3>Requirements</h3>
+numpy==1.19.2
+pandas==1.1.2
+imbalanced-learn==0.7.0
+imblearn==0.0
+xgboost==1.2.0
+matplotlib==3.3.2
+
 <h3>Helpful Guide</h3>
 In order to see a helpful guide, please look at the notebook provided in this [repo](/mcompare_example.ipynb).
