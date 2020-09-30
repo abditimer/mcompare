@@ -6,6 +6,7 @@ MCompare (Model Compare) is an easy way to track experiments relating to your Ma
 MCompare is a python package that simplifies the data science process. It enables for quick comparison between models, the ability to track all the relevant artifacts relating to an experiment and providing all the extra functionality required to understand more about models (e.g. Learning Charts).
 
 <h3>What does MCompare contain?</h3>  
+
 * Wrapper for Classification and Regression models
 * Track the data used within each iteration for a model
 * Compare metrics related to different models
