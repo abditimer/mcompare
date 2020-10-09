@@ -14,9 +14,6 @@ MCompare is a python package that simplifies the data science process. It enable
 * Visualise confusion matrix
 * Plot learning curves, ROCAUC charts and more
 
-<h3>Limitations</h3>  
-This work was some of the baseline work which was developed for a project for one of my clients. This only has some of the basic functionality, with some aspects missing as that is IP for my client. Contact me to learn more.
-
 <h3>How to install</h3>
 You have two options, either you can clone this repo and edit the code as you wish, or you can install it using pip:
 > pip install mcompare==1.0.0
